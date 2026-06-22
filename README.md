@@ -1,2 +1,0 @@
-# dist
-tour web
